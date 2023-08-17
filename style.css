@@ -1,5 +1,5 @@
 .container{
-    background: linear-gradient(155deg, #caed2b, #2b08d9);
+    background: linear-gradient(120deg,#97A2C8,#C8BD97);
     width: 100%;
     min-height: 100vh;
     padding: 10px; 
@@ -14,7 +14,7 @@
 .todo-app{
     width: 100%;
     max-width: 540px;
-    background:#fff;
+    background:linear-gradient(100deg,#6b9490,#C8BD97);
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
@@ -73,9 +73,9 @@ ul li{
    
 }
 ul li.checked{
-    color: #ec1111;
+    color: #837C7F;
     text-decoration: line-through;
-    background: linear-gradient(155deg, #caed2b, #2b08d9);
+    background: #7c8380;
     border-radius: 30px;
 }
 
